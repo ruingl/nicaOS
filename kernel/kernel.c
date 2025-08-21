@@ -48,7 +48,13 @@ void print(const char* str) {
 }
 
 void kernel_main(void) {
-  print("Welcome to nicaOS (v0.0.1-indev) (x86)\n");
-  print("Have fun! This is kernel level.\n");
+  print("oooo   oooo o88\n");
+  print(" 8888o  88  oooo   ooooooo   ooooooo\n");
+  print(" 88 888o88   888 888     888 ooooo888\n");
+  print(" 88   8888   888 888       888    888 \n");
+  print("o88o    88  o888o  88ooo888 88ooo88 8o\n\n");
+  print("nicaOS v0.0.2-indev (x86)\n");
+  print("Have fun! This is kernel mode.\n");
+
   for (;;) {}
 }
