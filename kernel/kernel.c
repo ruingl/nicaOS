@@ -1,5 +1,5 @@
 /**
- * nicaOS v0.0.1-indev
+ * nicaOS v0.0.2-indev
  * made with <3 by rui
  *
  * named from the loml
